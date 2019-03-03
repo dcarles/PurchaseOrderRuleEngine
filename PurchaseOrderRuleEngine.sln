@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseOrderRuleEngine.Tests.Unit", "PurchaseOrderRuleEngine.Tests.Unit\PurchaseOrderRuleEngine.Tests.Unit.csproj", "{D20837F9-0BD1-41A5-B69D-E78AB9C92454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseOrderRuleEngine", "PurchaseOrderRuleEngine\PurchaseOrderRuleEngine.csproj", "{A0A2CBC3-9853-42F4-8778-8EAF56901C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution		
+		{D20837F9-0BD1-41A5-B69D-E78AB9C92454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20837F9-0BD1-41A5-B69D-E78AB9C92454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20837F9-0BD1-41A5-B69D-E78AB9C92454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20837F9-0BD1-41A5-B69D-E78AB9C92454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A2CBC3-9853-42F4-8778-8EAF56901C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A2CBC3-9853-42F4-8778-8EAF56901C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A2CBC3-9853-42F4-8778-8EAF56901C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A2CBC3-9853-42F4-8778-8EAF56901C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5C1697-D662-4D6C-A844-27AF15735696}
+	EndGlobalSection
+EndGlobal
